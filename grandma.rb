@@ -23,5 +23,6 @@ elsif phrase == "WHAT DID YOU EAT TODAY?" && phrase.upcase
     return "NO, NOT SINCE 1938!"
 elsif phrase == "WHAT?" && phrase.upcase
     return "NO, NOT SINCE 1938!"
+else return "HUH?! SPEAK UP, SONNY!"
 end
 end
